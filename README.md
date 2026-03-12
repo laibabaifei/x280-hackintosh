@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
 
 <p align="center">
-   <strong>Status: Maintained (and sorta works)</strong>
+   <strong>Status: Unmaintained (and sorta works)</strong>
    <br />
    <strong>Version: </strong>1.0
    <br />
